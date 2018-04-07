@@ -1,0 +1,10 @@
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Sakit\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGame.resources
